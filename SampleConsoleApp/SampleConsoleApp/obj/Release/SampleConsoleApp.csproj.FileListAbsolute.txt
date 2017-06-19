@@ -1,0 +1,9 @@
+C:\MSBuildTrak\Artifacts\SampleConsoleApp.exe.config
+C:\MSBuildTrak\Artifacts\SampleConsoleApp.exe
+C:\MSBuildTrak\Artifacts\SampleConsoleApp.pdb
+C:\Projects\SampleConsoleApp\SampleConsoleApp\obj\Release\SampleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\SampleConsoleApp\SampleConsoleApp\obj\Release\SampleConsoleApp.exe
+C:\Projects\SampleConsoleApp\SampleConsoleApp\obj\Release\SampleConsoleApp.pdb
+c:\Projects\SampleConsoleApp\SampleConsoleApp\bin\Release\SampleConsoleApp.exe.config
+c:\Projects\SampleConsoleApp\SampleConsoleApp\bin\Release\SampleConsoleApp.exe
+c:\Projects\SampleConsoleApp\SampleConsoleApp\bin\Release\SampleConsoleApp.pdb

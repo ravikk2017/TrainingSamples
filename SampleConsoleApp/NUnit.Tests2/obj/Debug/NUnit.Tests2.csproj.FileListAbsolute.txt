@@ -1,0 +1,10 @@
+c:\Projects\SampleConsoleApp\NUnit.Tests2\obj\Debug\NUnit.Tests2.csprojResolveAssemblyReference.cache
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\NUnit.Tests2.dll
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\NUnit.Tests2.pdb
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\nunit.framework.dll
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\SampleConsoleApp.exe
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\SampleConsoleApp.pdb
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\SampleConsoleApp.exe.config
+c:\Projects\SampleConsoleApp\NUnit.Tests2\bin\Debug\nunit.framework.xml
+c:\Projects\SampleConsoleApp\NUnit.Tests2\obj\Debug\NUnit.Tests2.dll
+c:\Projects\SampleConsoleApp\NUnit.Tests2\obj\Debug\NUnit.Tests2.pdb
